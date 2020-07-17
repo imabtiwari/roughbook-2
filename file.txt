@@ -1,1 +1,2 @@
 echo "hello m2" >>  file.txt
+echo "hello m3" >>  file.txt
