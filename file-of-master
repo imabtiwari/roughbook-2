@@ -1,0 +1,2 @@
+echo "MasterChange" >>  file-of-master
+echo "FeatureChange" >>  file.txt
